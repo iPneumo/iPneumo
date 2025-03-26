@@ -17,9 +17,7 @@
 </div>
 
 <!--Body-->
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+
 
 ### :man_technologist: About Me :
 I am a System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
@@ -44,6 +42,10 @@ I am a System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEm
 Currently keeping servers alive and trying not to break anything important. 
 
 ---
+
+<div align="center">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
