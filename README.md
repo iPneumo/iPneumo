@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI5MW5pY3ppbzNqemNxenU3eXprenltMm16cXBtMndkMTZ5dHVhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWdxaGFibjUweHhzMmRrejBzcnI5Zm9mN3Q3cmgzdGFjODBiOXczNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJ9ehuvqmJbrgZLAwB/giphy.gif" width="100"/>
   <div id="badges">
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
