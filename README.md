@@ -32,10 +32,10 @@ I am a System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEm
 📚 Skills: 
 - Expert in fixing things I didn’t break (but somehow got blamed for)
 - Master of saying “it’s not my fault, it’s the network”
-- Bash, fluent in "sudo rm -rf /" (just kidding!)
+- Bash, fluent in "sudo rm -rf /" (just kidding… or am I?)
 
 ⚠️ Warning:  
-- I once rebooted a server and forgot why I did it
+- I once rebooted a server and forgot why I did it (true story)
 - I believe every problem can be solved with `sudo` (eventually)
 - “It’s probably DNS” is my default answer for everything
 
