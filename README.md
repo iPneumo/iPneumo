@@ -34,7 +34,7 @@ I am a System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - Master of saying “it’s not my fault, it’s the network”
 - Bash, fluent in "sudo rm -rf /" (just kidding… or am I?)
 
-⚠️ Warning:  
+⚠️ Known Issues:
 - I once rebooted a server and forgot why I did it (true story)
 - I believe every problem can be solved with `sudo` (eventually)
 - “It’s probably DNS” is my default answer for everything
